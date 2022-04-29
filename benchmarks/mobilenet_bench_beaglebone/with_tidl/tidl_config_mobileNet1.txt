@@ -1,0 +1,9 @@
+numFrames   = 1
+preProcType = 2
+inData   = "preproc_2_224x224.y"
+outData   = "./stats_tool_out.bin"
+netBinFile      = "tidl_net_mobilenet_1_224.bin"
+paramsBinFile   = "tidl_param_mobilenet_1_224.bin"
+inWidth = 224
+inHeight = 224
+inNumChannels = 3

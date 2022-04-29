@@ -1,0 +1,4 @@
+Total find 960 class in top 5 accuracy
+Top 5 accuracy is 0.96 for 960 / 1000 images
+Total elapsed time sum for 1000 images ( 250 runs x 4 batch_size) is 1.63 sec
+Throughput: 615 images/s

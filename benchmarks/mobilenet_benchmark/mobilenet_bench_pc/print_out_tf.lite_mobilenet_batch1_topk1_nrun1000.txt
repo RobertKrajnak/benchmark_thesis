@@ -1,0 +1,5 @@
+Total find 862 class in top 1 accuracy
+Top 1 accuracy is 0.862 for 862 / 1000 images
+Total elapsed time sum for 1000 images ( 1000 runs x 1 batch_size) is 51.13 sec
+Throughput: 19.560 images/s
+Mean Latency for 1 image is:  0.05112529134750366

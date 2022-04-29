@@ -1,0 +1,4 @@
+Total elapsed time sum for 34 images ( 34 runs x 1 batch_size) is 38.45 sec
+Mean Jaccard for 34 images is:  0.5876927773729506
+Throughput: 0.884 images/s
+Mean Latency for 1 image is:  1.1309557662290686

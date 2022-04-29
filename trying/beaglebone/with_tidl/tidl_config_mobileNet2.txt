@@ -1,0 +1,14 @@
+numFrames   = 1
+preProcType = 2
+inData   = "preproc_2_224x224.y"
+outData   = "stats_tool_out.bin"
+
+# netBinFile      = "./tidl_models_convert/tidl_net_tflite_mobilenet_v2_1.0_224.bin"
+# paramsBinFile   = "./tidl_models_convert/tidl_param_tflite_mobilenet_v2_1.0_224.bin"
+
+netBinFile      = "./tidl_models_old/tidl_net_mobilenet_2_224.bin"
+paramsBinFile   = "./tidl_models_old/tidl_param_mobilenet_2_224.bin"
+
+inWidth = 224
+inHeight = 224
+inNumChannels = 3

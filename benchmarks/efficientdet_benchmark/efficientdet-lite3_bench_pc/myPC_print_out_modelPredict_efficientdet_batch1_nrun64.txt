@@ -1,0 +1,6 @@
+Total object detect:  103 in 64 images
+IoU threshold is: 0.6 and Predict threshold is: 0.6
+Mean IoU is: 0.892  for 64 images
+Total elapsed time sum for 64 images ( 64 runs x 1 batch_size) is 5.62 sec
+Throughput: 11.386 images/s
+Mean Latency for 1 image is:  0.08783061429858208
