@@ -1,5 +1,0 @@
-https://www.glennklockwood.com/embedded/beaglebone-ai.html
-https://www.hackster.io/functt/tensorflow-lite-tensorflow-and-the-bbai-34f793
-https://git.ti.com/cgit/tidl/tidl-api/tree/examples/pybind/imagenet.py
-https://software-dl.ti.com/jacinto7/esd/processor-sdk-rtos-jacinto7/06_01_01_12/exports/docs/tidl_j7_01_00_01_00/ti_dl/docs/user_guide_html/md_tidl_user_model_deployment.html
-https://www.hackster.io/functt/tensorflow-lite-tensorflow-and-the-bbai-34f793
